@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/ejml-0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/javax.activation-api-1.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/javax.json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/javax.json-api-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/jaxb-api-2.4.0-b180830.0359.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/jaxb-api-2.4.0-b180830.0359-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/jaxb-core-2.3.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/jaxb-impl-2.4.0-b180830.0438.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/jaxb-impl-2.4.0-b180830.0438-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/joda-time.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/joda-time-2.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/jollyday.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/jollyday-0.4.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/protobuf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/slf4j-simple.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/xom.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/PS1/data/stanford-corenlp-full-2018-10-05/xom-1.2.10-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/Semestr 2/Przetwarzanie Języka Naturalnego/N_PROJECT/richtextfx-fat-0.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/openjfx-13.0.1_windows-x64_bin-sdk/javafx-sdk-13.0.1/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/openjfx-13.0.1_windows-x64_bin-sdk/javafx-sdk-13.0.1/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/openjfx-13.0.1_windows-x64_bin-sdk/javafx-sdk-13.0.1/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/openjfx-13.0.1_windows-x64_bin-sdk/javafx-sdk-13.0.1/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/openjfx-13.0.1_windows-x64_bin-sdk/javafx-sdk-13.0.1/lib/javafx.media.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/openjfx-13.0.1_windows-x64_bin-sdk/javafx-sdk-13.0.1/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/openjfx-13.0.1_windows-x64_bin-sdk/javafx-sdk-13.0.1/lib/javafx.web.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/openjfx-13.0.1_windows-x64_bin-sdk/javafx-sdk-13.0.1/lib/javafx-fxml-13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamil/Desktop/openjfx-13.0.1_windows-x64_bin-sdk/javafx-sdk-13.0.1/lib/javafx-swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
